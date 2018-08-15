@@ -1,0 +1,12 @@
+{
+  "900": {
+    "msg": {
+      "EN": "Error while fetching user."
+    }
+  },
+  "901": {
+    "msg": {
+      "EN": "Error while fetching getAttendance."
+    }
+  }
+}
